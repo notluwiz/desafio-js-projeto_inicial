@@ -10,3 +10,5 @@ alert(mensagemDeErro);
 
 nome = prompt ("Digite o nome:");
 idade = prompt ("Digite sua idade:");
+
+if
